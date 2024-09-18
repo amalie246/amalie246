@@ -22,10 +22,18 @@ You can click the Preview link to take a look at your changes.
 - Objektorientert programmering: OOP in Java
 - Visual Analytics: Data visualisations in Tableau
 
+### Third Semester
+- Backend programming: Web Sockets, Docker, Client/Server, Kubernetes, Java
+- Software Design: C# Software design
+- Webdevelopment and API-design: React, Node, Nodemon
+
 
 ## Skills and Languages
 - JavaScript
 - Java
+- C#
+- React
+- TypeScript
 - Python
 - HTML
 - CSS
