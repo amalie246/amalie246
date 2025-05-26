@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming, backend development, software engineering and creating hobby projects to become a better programmer!
 - 🌱 I’m currently learning C programming for Linux, DSA, Python and IS Project Management.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/amalie-nilsen-629289297/
+- LATEST PROJECT: https://github.com/amalie246/PEATA
 
 <!---
 amalie246/amalie246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Fourth Semester
 - Programming in C for Linux: Using Debian 10 for C-programming, including socket programming, threads and more
-- Python Programming: Introductionary course, but I also have a job using Python for a project called Packaged Easier Access to API's
+- Python Programming: Introductionary course, but I also have a job using Python for a project called Packaged Easier Access to API's: https://github.com/amalie246/PEATA
 - IT Project Management
 - Algorithms and Data Structures in Java
 
