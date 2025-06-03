@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C programming for Linux, DSA, Python and IS Project Management.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/amalie-nilsen-629289297/
 - LATEST PROJECT: https://github.com/amalie246/PEATA
+- PORTFOLIO: https://amalie246.github.io/
 
 <!---
 amalie246/amalie246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
