@@ -62,4 +62,4 @@ You can click the Preview link to take a look at your changes.
 - Git, Github, CI/CD, Pair programming, agile programming, TDD
 - Debian 10, Debian 12, Windows, MacOS
 
-## Portfolio is under construction! :D
+## Check out my portfolio: https://amalie246.github.io/
