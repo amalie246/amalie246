@@ -35,12 +35,12 @@ You can click the Preview link to take a look at your changes.
 - Algorithms and Data Structures in Java
 
 ### Fifth Semester
-- Microservices
-- DevOps in cloud
+- Microservices: Java, Spring Boot, Spring Security, Docker
+- DevOps in cloud: AWS, Codespaces
 - Agile Programming
 
 ### Sixth Semester
-- Undersøkelsesmetoder
+- Undersøkelsesmetoder (Research methodologies)
 - Bachelor project
 
 
