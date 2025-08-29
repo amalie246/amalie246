@@ -59,8 +59,9 @@ You can click the Preview link to take a look at your changes.
 ## Skills, technologies, tools
 - IntelliJ, VS Code, Visual Studio, Dbeaver, MySQL Workbench, MongoDB Atlas, Nano, Gedit, GCC
 - Spring Boot, JPA, Flyway, Docker, Thymeleaf, Lombok, Spring Web
+- C#, .NET, MediatR
 - ADO.NET, MongoDB, Sqlite, EF Core, PostgreSQL
-- Git, Github, CI/CD, Pair programming, agile programming, TDD
+- Git, Github, CI/CD, Azure DevOps, Pair programming, agile programming, TDD
 - Debian 10, Debian 12, Windows, MacOS
 
 ## Check out my portfolio: https://amalie246.github.io/
